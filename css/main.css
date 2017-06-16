@@ -1,0 +1,124 @@
+.banner {
+    background: #fefffe;
+    text-align: center;
+    height: 250px;
+    padding-top: 10px;
+    border: none;
+    margin: 0px
+}
+/*
+#hello {
+    background-image: url('images/fundo_banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: center;
+    height: 350px;
+}*/
+
+.parallax-container {
+      height: 60vh;
+}
+
+nav {
+    background: #74D3AE;
+}
+
+/*.icons-banner {
+    transition: font-size 1s;
+}*/
+/*
+.icons-banner:hover {
+    font-size: 18px;
+}*/
+
+#sobre{
+    background: #eff9f0;
+}
+
+#objetivos{
+    background: #eef0f2;
+}
+
+#qualificacoes{
+    background: #fcfcfc;
+}
+
+.card-banner{
+    background: #eef0f2;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.card-banner>.card-content {
+    color: black;
+    padding: 15px;
+}
+
+.card-banner>.card-content>.fa {
+    color: #ffab40;
+}
+
+.collapsible-header>.material-icons{
+    color: #ffab40;
+}
+
+.efeito-zoom{
+    transition: all 0.5s;
+}
+
+.efeito-zoom:hover{
+    -webkit-transform: scale(1.1);
+	   -moz-transform: scale(1.1);
+	    -ms-transform: scale(1.1);
+	     -o-transform: scale(1.1);
+	        transform: scale(1.1);
+}
+
+.tela-toda{
+    height: 100vh;
+}
+
+blockquote{
+    border-left-color: #4357AD;
+}
+
+#formacao{
+    font-size: 7vh;
+    color: #4357AD;
+}
+#atv-complementares{
+    font-size: 7vh;
+    color: #ffab40;;
+}
+
+.laranja{
+     color: #ffab40;;
+}
+
+.azul{
+    color: #4357AD;
+}
+
+.verde{
+    color: #74D3AE;    
+}
+
+#curiosidades{
+    background-color: #eef0f2;
+    padding-bottom: 0px;
+}
+
+#stand-up{
+    background-color: white;
+}
+
+
+.page-footer{
+    background-color: #74D3AE;
+}
+
+.centro-vertical{
+    padding-top: 30vh;
+}
