@@ -6,15 +6,6 @@
     border: none;
     margin: 0px
 }
-/*
-#hello {
-    background-image: url('images/fundo_banner.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-size:100%;
-    background-position: center;
-    height: 350px;
-}*/
 
 .parallax-container {
       height: 60vh;
@@ -23,14 +14,6 @@
 nav {
     background: #74D3AE;
 }
-
-/*.icons-banner {
-    transition: font-size 1s;
-}*/
-/*
-.icons-banner:hover {
-    font-size: 18px;
-}*/
 
 #sobre{
     background: #eff9f0;
@@ -121,4 +104,14 @@ blockquote{
 
 .centro-vertical{
     padding-top: 30vh;
+}
+
+#boas-vindas{
+    color: white;
+    font-size: 9vh;
+}
+
+#curriculo-online{
+    color: white;
+    font-size: 4vh;
 }
